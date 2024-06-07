@@ -14,10 +14,10 @@ This repository is for reporting issues for the following assets:
 - [List other assets here]
 
 ## How to Report an Issue
-1. **Check for Existing Issues**: Before creating a new issue, please check the [existing issues](https://github.com/yourusername/repo/issues) to see if your problem has already been reported.
+1. **Check for Existing Issues**: Before creating a new issue, please check the [existing issues](https://github.com/Glitch9Inc/Glitch9-Support/issues) to see if your problem has already been reported.
 
 2. **Create a New Issue**:
-   - Go to the [Issues](https://github.com/yourusername/repo/issues) tab.
+   - Go to the [Issues](https://github.com/Glitch9Inc/Glitch9-Support/issues) tab.
    - Click on the `New Issue` button.
    - Fill out the issue template with as much detail as possible.
 
